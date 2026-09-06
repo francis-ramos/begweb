@@ -9,4 +9,4 @@ This repository was made for beginners to help them develop a React webpage with
 
 
 ```
-git clone https://github.com/
+git clone https://github.com/francis-ramos/begweb.git
