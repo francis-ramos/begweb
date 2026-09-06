@@ -2,7 +2,7 @@
 
 # Begweb — Bun
 
-**A beginner-friendly React authentication template powered by Bun**
+**Beginner Website Built in Bun React**
 
 Made by **Francis Enrico Ramos** ♥️
 
